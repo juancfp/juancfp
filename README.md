@@ -11,8 +11,10 @@ package cfp.juan.skills;
 import management.maven;
 import java.jdbc;
 import database.mysql;
+import java.jpa.hibernate;
 import java.spring.framework;
 import java.spring.mvc;
+import java.spring.datajpa;
 import java.spring.jwt;
 import javascript.react; // axios, context api, styled-components
 import web.css; 
