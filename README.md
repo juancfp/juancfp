@@ -3,33 +3,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juancarlospereira@id.uff.br)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anonymousinaction)
 
-<img align='right' src='https://media4.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif' width="400">
-
-```java
-package cfp.juan.skills;
-
-// skills
-import management.maven;
-import java.jdbc;
-import database.mysql;
-import java.jpa.hibernate;
-import java.spring.framework;
-import java.spring.mvc;
-import java.spring.datajpa;
-import java.spring.jwt;
-import javascript.react; // axios, context api, styled-components
-import web.css; 
-import web.html;
-
-public class MySkills implements WillPower {
-  public static void main(String[] args) {
-  
-    Scanner input = new Scanner(System.in);
-    
-    while(true){
-      System.out.println("type any key to keep learning");
-      input.nextLine();
-    }
-  }
-}
-```
+<img  src='https://media4.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif' width="400">
